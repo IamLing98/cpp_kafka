@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linhdv/CLionProjects/TestOpenCV/src/KafkaConnection.cpp
+KafkaConnection.h
+/home/linhdv/CLionProjects/TestOpenCV/src/KafkaConnection.h
+
+/home/linhdv/CLionProjects/TestOpenCV/src/KafkaConnection.h
+iostream
+-
+

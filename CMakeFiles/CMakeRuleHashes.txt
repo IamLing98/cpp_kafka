@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+0e536272b38270d18712509cec260959 cppkafka/CMakeFiles/uninstall

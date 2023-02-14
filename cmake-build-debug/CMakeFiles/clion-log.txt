@@ -1,0 +1,9 @@
+/home/linhdv/Desktop/CLion-2021.1.3/clion-2021.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/linhdv/CLionProjects/TestOpenCV
+-- Build will generate a shared library. Use CPPKAFKA_BUILD_SHARED=0 to perform a static build
+-- RdKafkaConfig.cmake not found. Attempting to find module instead...
+-- Found valid rdkafka version
+-- RdKafka module found.
+-- Disabling tests because submodule Catch2 isn't checked out
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/linhdv/CLionProjects/TestOpenCV
