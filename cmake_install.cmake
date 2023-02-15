@@ -49,7 +49,7 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   string(REPLACE ";" "\n" MY_CMAKE_INSTALL_MANIFEST_CONTENT "${CMAKE_INSTALL_MANIFEST_FILES}")
-              file(WRITE my_install_manifest.txt "${MY_CMAKE_INSTALL_MANIFEST_CONTENT}")
+              file(WRITE install_manifest.txt "${MY_CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
